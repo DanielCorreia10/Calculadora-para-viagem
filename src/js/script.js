@@ -16,6 +16,6 @@ botao.addEventListener('click',()=>{
 
     calculo = (d/c)*p
 
-    resultado.textContent = `O gasto total para viagem será de R$ ${calculo.toFixed(2)}`
+    resultado.textContent = `O gasto total para a viagem será de R$ ${calculo.toFixed(2)}`
 })
 
